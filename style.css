@@ -77,3 +77,8 @@ body {
 td {
 	border: none !important;	
 }
+
+
+.bol {
+	color: red;
+}
