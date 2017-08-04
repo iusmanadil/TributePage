@@ -10,7 +10,7 @@ body {
 
 .main {
 	/*border: solid gold;*/
-	background-image: linear-gradient(rgba(95,207,72,0), rgba(0,128,128,.5)), url(img/full1.jpg);
+	background-image: linear-gradient(rgba(95,207,72,0), rgba(0,128,128,.6)), url(img/full1.jpg);
 	background-size: cover;
 	background-position: center;
 	min-height: 100vh;
